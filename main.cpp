@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cctype> // for tolower function
+#include<cctype>
 using namespace std;
 
 int main()
